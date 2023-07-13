@@ -16,6 +16,7 @@ def main():
     # 정수형
     num = 123
     print("num:{0},type={1}".format(num,type(num)))
+    print("hggggggggggggggggggggggggggggg")
 
     # 실수형
     # fNum:1.2,type=<class 'float'>
